@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-together
+together
+pypdf
+PyPDF2
+python-docx
+google.genai
+chromadb
+sentence-transformers
